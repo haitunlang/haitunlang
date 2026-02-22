@@ -1,3 +1,12 @@
+**About Me**
+
+- 🔭 主要使用: ![My Skills](https://skillicons.dev/icons?i=cs,py,go&perline=10)
+- 🌱 推し: [RPK16](https://mzh.moegirl.org.cn/%E5%B0%91%E5%A5%B3%E5%89%8D%E7%BA%BF:RPK-16),[山田凉](https://mzh.moegirl.org.cn/%E5%B1%B1%E7%94%B0%E5%87%89),[八幡海铃](https://mzh.moegirl.org.cn/%E5%85%AB%E5%B9%A1%E6%B5%B7%E9%93%83),[长崎素世](https://mzh.moegirl.org.cn/%E9%95%BF%E5%B4%8E%E7%88%BD%E4%B8%96),[椎名立希](https://mzh.moegirl.org.cn/%E6%A4%8E%E5%90%8D%E7%AB%8B%E5%B8%8C)
+- 📫 E-mail: haitunlang666@163.com
+- 🌐 Languages: 中文，English
+
+**声明**：
+
 本人谨此声明，本GitHub账号下所有项目、代码、文档及任何相关成果（下称“内容”）均基于个人技术学习与研究目的而创作。内容不代表任何组织或机构的立场，尤其不涉及任何政治观点或倾向。本人坚决拥护中国共产党的领导，坚定不移地支持中国特色社会主义道路，全面遵守国家法律法规，积极践行社会主义核心价值观，所有内容均无意且不应被解读为具有任何政治含义。
 
 就本人在即时通讯平台（包括但不限于微信、QQ、Telegram、Slack、Discord等）可能参与的任何非正式技术讨论、群组交流或私人对话，其中任何即兴、未加审慎考虑的言论、观点、猜测或调侃，均属个人随意交流，不构成任何正式承诺、技术建议或可靠依据。本人对此类即时通讯场景下的发言内容不承担任何责任，亦不对其准确性、完整性或适用性作任何保证。请所有相关方不以本GitHub账号下经正式提交的书面文档与代码为准。
